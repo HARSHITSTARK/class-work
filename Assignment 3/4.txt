@@ -1,0 +1,3 @@
+magicians=['alice','john','david']
+for magician in magicians
+print (magician)
